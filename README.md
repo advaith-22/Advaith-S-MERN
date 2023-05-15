@@ -6,6 +6,4 @@
 
 This is my attempt to learn the infamous mern stack with the help of a youtube playlist containg 14 videos.
 
-Each video's progress will be recorded here until i finish the playlist and see what i have learnt.
-
 
